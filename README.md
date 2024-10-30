@@ -1,6 +1,6 @@
 # **Modelagem de Tópicos**
 
-Esse repositório serve para organizar os scripts utilizados para a modelagem de tópicos utilizados na disciplina de Métodos e Técnicas de Pesquisa II, sob orientação da Professora Veridiana Cordeiro.
+Esse repositório serve para organizar os scripts utilizados para a modelagem de tópicos utilizados na disciplina de Métodos e Técnicas de Pesquisa II (2024), sob orientação da Professora Veridiana Cordeiro. O projeto que utilizou esses scripts foi intitulado 'Ocupação' ou 'invasão': Uma análise sobre a representação da greve estudantil de 2007 na grande imprensa e nos jornais uspianos, orientado pela professora Veridiana Cordeiro.
 
 Dividimos a modelagem de tópicos em 4 partes:
 (1) Limpeza e lematização do _corpus_
