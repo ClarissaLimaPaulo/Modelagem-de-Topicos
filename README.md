@@ -12,6 +12,6 @@ O nosso _corpus_ textual são notícias da Folha, Estadão, Jornal da USP e Jorn
 
 **Importante**
 
-O script não foi escrito pelos membros do grupo, e sim construído a partir de scripts de outros pesquisadores, que são devidamente citados em cada uma das etapas.
+Ressalto que os códigos publicados nesse repositório **não foram de autoria de nenhum membro do grupo**. Os códigos foram criados em junção com códigos disponibilizados pela monitora da disciplina, sugestões do Gemini no Google Colab e respostas a prompts enviados no Chat GPT-4o.
 
 Além disso, essa modelagem de tópicos serviu exclusivamente para um exercício de aprendizado, então pode conter erros que não são do conhecimento dos autores desse repositório.
